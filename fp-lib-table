@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name 2481bs)(type KiCad)(uri ${KIPRJMOD}/2481bs.pretty)(options "")(descr ""))
+  (lib (name jlcpcb-tooling)(type KiCad)(uri ${KIPRJMOD}/jlcpcb-tooling.pretty)(options "")(descr ""))
 )

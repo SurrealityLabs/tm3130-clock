@@ -444,4 +444,37 @@ Wire Wire Line
 	5000 4100 5000 3950
 Wire Wire Line
 	4900 4150 4900 4600
+$Comp
+L Mechanical:MountingHole H3
+U 1 1 60600A6D
+P 8000 5950
+F 0 "H3" H 8100 5996 50  0000 L CNN
+F 1 "MountingHole" H 8100 5905 50  0000 L CNN
+F 2 "jlcpcb-tooling:tooling-hole" H 8000 5950 50  0001 C CNN
+F 3 "~" H 8000 5950 50  0001 C CNN
+	1    8000 5950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H4
+U 1 1 60600D3B
+P 8000 6100
+F 0 "H4" H 8100 6146 50  0000 L CNN
+F 1 "MountingHole" H 8100 6055 50  0000 L CNN
+F 2 "jlcpcb-tooling:tooling-hole" H 8000 6100 50  0001 C CNN
+F 3 "~" H 8000 6100 50  0001 C CNN
+	1    8000 6100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H5
+U 1 1 60600F70
+P 8000 6250
+F 0 "H5" H 8100 6296 50  0000 L CNN
+F 1 "MountingHole" H 8100 6205 50  0000 L CNN
+F 2 "jlcpcb-tooling:tooling-hole" H 8000 6250 50  0001 C CNN
+F 3 "~" H 8000 6250 50  0001 C CNN
+	1    8000 6250
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
